@@ -1,0 +1,22 @@
+[
+    {
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "title": "Bones in 37 Minutes",
+        "image_url": "https://i.ytimg.com/vi/OTuph9pJWU4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4A17RmMPGYY0sqxEnWke7jG57AA"
+    },
+    {
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "title": "Primary 4 English 1",
+        "image_url": "https://i.ytimg.com/vi/hJLNDmH_RRg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyAjHeCMSdzBLejhxtclnWfGC1MQ"
+    },
+    {
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "title": "P1 English, Topic: Literacy",
+        "image_url": "https://i.ytimg.com/vi/THvdPRWL1V8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC38Uhid8y9lch_MB584BAlKd3_Cg"
+    },
+    {
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+        "title": "Primary Seven Mathematics - Properties",
+        "image_url": "https://i.ytimg.com/vi/LrEBiNv14ac/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW-kfCvPmyMZ2vTThW4ABm9PGMeQ"
+    }
+]
