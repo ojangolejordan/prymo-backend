@@ -1,5 +1,7 @@
+from datetime import time
 from django.db import models
 from django.contrib.auth.models import User
+from pytz import timezone
 
 
 # Create your models here.
@@ -24,7 +26,7 @@ class Visual(models.Model):
 
 
 class Comment(models.Model):
-    content = models.CharField(max_length=42)
-    video = models.ForeignKey(Video,on_delete=models.CASCADE)
-    user= models.ForeignKey(User,on_delete=models.CASCADE)
-
+    content = models.CharField(max_length=500)
+    name = models.CharField(max_length=500, default="ojangolejordan")
+    video = models.ForeignKey(Video,related_name="comments",on_delete=models.CASCADE)
+    created_on = models.DateTimeField(auto_now_add=True)

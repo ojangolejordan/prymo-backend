@@ -100,6 +100,9 @@ DATABASES = {
     }
 }
 
+# SERIALIZATION_MODULES = {
+#     'json': 'wadofstuff.django.serializers.json',
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
